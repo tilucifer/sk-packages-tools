@@ -31,8 +31,8 @@ importers:
         specifier: 10.8.0
         version: 10.8.0(@typescript-eslint/parser@8.56.1(eslint@9.39.3)(typescript@5.9.3))(eslint@9.39.3)(vue-eslint-parser@10.4.0(eslint@9.39.3))
       globals:
-        specifier: 15.15.0
-        version: 15.15.0
+        specifier: 17.4.0
+        version: 17.4.0
       typescript-eslint:
         specifier: 8.56.1
         version: 8.56.1(eslint@9.39.3)(typescript@5.9.3)
@@ -883,8 +883,8 @@ packages:
     resolution: {integrity: sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==}
     engines: {node: '>=18'}
 
-  globals@15.15.0:
-    resolution: {integrity: sha512-7ACyT3wmyp3I61S4fG682L0VA2RGD9otkqGJIwNUMF1SWUombIIk+af1unuDYgMm082aHYwD+mzJvv9Iu8dsgg==}
+  globals@17.4.0:
+    resolution: {integrity: sha512-hjrNztw/VajQwOLsMNT1cbJiH2muO3OROCHnbehc8eY5JyD2gqz4AcMHPqgaOR59DjgUjYAYLeH699g/eWi2jw==}
     engines: {node: '>=18'}
 
   has-flag@4.0.0:
@@ -1932,7 +1932,7 @@ snapshots:
 
   globals@14.0.0: {}
 
-  globals@15.15.0: {}
+  globals@17.4.0: {}
 
   has-flag@4.0.0: {}
 
